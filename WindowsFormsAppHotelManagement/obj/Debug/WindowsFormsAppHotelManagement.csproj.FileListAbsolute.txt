@@ -1,0 +1,16 @@
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe.config
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Properties.Resources.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Bookings.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Categories.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Customers.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Dashboard.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Rooms.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Users.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Login.resources
