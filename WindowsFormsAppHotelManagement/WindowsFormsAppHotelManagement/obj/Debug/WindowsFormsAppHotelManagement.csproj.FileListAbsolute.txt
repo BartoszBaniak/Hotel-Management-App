@@ -1,0 +1,60 @@
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe.config
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Properties.Resources.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Bookings.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Categories.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Customers.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Dashboard.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Rooms.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Users.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Login.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.AdminLogin.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlSettings.resources
+C:\Users\Bartosz Baniak\source\repos\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlClient.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe.config
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.AdminLogin.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Bookings.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Categories.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Customers.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Dashboard.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Login.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Rooms.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Properties.Resources.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlClient.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlSettings.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Users.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlRoom.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlReservation.resources
+C:\Users\natal\OneDrive\Pulpit\Daniel\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlDashboard.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\bin\Debug\HotelDatabase.mdf
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\bin\Debug\HotelDatabase_log.ldf
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe.config
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\bin\Debug\WindowsFormsAppHotelManagement.pdb
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.AssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.AdminLogin.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Dashboard.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Login.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.Properties.Resources.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlClient.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlDashboard.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlReservation.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlRoom.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.UserControlSettings.resources
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.GenerateResource.cache
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.exe
+C:\Users\barto\OneDrive\Pulpit\WindowsFormsAppHotelManagement\WindowsFormsAppHotelManagement\obj\Debug\WindowsFormsAppHotelManagement.pdb

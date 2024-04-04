@@ -1,0 +1,42 @@
+CREATE TABLE [dbo].[Client_Table] (
+    [Client_ID]        INT           IDENTITY (1, 1) NOT NULL,
+    [Client_FirstName] VARCHAR (150) NOT NULL,
+    [Client_LastName]  VARCHAR (150) NOT NULL,
+    [Client_Phone]     VARCHAR (15)  NOT NULL,
+    [Client_Address]   VARCHAR (150) NOT NULL,
+    CONSTRAINT [PK_Client_Table] PRIMARY KEY CLUSTERED ([Client_ID] ASC),
+    UNIQUE NONCLUSTERED ([Client_Phone] ASC)
+);
+
+
+
+
+CREATE TABLE [dbo].[Reservation_Table] (
+    [Reservation_ID]        INT           IDENTITY (1, 1) NOT NULL,
+    [Reservation_Room_Type] VARCHAR (150) NOT NULL,
+    [Reservation_Room_Number]  INT  NOT NULL,
+    [Reservation_Client_ID]    INT UNIQUE  NOT NULL,
+    [Reservation_In]   VARCHAR (150) NOT NULL,
+	[Reservation_Out]   VARCHAR (150) NOT NULL,
+    CONSTRAINT [PK_Reservation_Table] PRIMARY KEY CLUSTERED ([Reservation_ID] ASC),
+);
+
+
+
+CREATE TABLE [dbo].[Room_Table] (
+    [Room_ID]    INT           IDENTITY (1, 1) NOT NULL,
+    [Room_Type]  VARCHAR (10)  NOT NULL,
+    [Room_Phone] VARCHAR (150) NOT NULL,
+    [Room_Free]  VARCHAR (15)  NOT NULL,
+    CONSTRAINT [PK_Room_Table] PRIMARY KEY CLUSTERED ([Room_ID] ASC),
+    UNIQUE NONCLUSTERED ([Room_Phone] ASC)
+);
+
+
+
+CREATE TABLE [dbo].[User_Table] (
+    [User_ID]       INT           IDENTITY (1, 1) NOT NULL,
+    [User_Name]     VARCHAR (150) NOT NULL,
+    [User_Password] VARCHAR (150) NOT NULL,
+    CONSTRAINT [PK_User_Table] PRIMARY KEY CLUSTERED ([User_ID] ASC)
+);
